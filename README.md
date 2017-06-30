@@ -3,6 +3,18 @@ Introductory golang example to learn go
 
 This example is based on the tutorial in: https://www.toptal.com/go/go-programming-a-step-by-step-introductory-tutorial
 
+## Links
+
+- https://slides.com/danielgonzalezlareo/deck/edit
+- https://medium.com/square-corner-blog/a-comparison-of-go-web-frameworks-f47804cf86f6
+- https://golang.org/doc/
+- https://golangbot.com/page/2/
+- https://gobyexample.com/
+- https://www.toptal.com/go/go-programming-a-step-by-step-introductory-tutorial
+- https://github.com/golang/lint
+- https://github.com/mattn
+- https://github.com/golang
+
 ## General
 
 A wrapper which can turn any data structure into a transactional service. We’ll use a Fund type as an example – a simple store for our startup’s remaining funding, where we can check the balance and make withdrawals.
